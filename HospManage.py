@@ -1,5 +1,5 @@
-##hospital management software
-
+#hospital management software using Python and mysql
+#Invesigatory Project for CS created by Abhinav,Karthik and Sannidhya , Class 12-C, KV AFS YELAHANKA (Batch 2022-23)
 
 def arrtable(k,v):#TO ARRANGE TABLE
     for i in range(len(k)):
